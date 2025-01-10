@@ -1,3 +1,4 @@
+#Amir,Mohammed,Adam,Aimé
 from machine import Pin, ADC
 import time
 import neopixel
